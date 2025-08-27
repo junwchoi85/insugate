@@ -1,7 +1,5 @@
 # Insugate
 
----
-
 ### **Project Overview**
 
 This project is the complete rebuild of the Insugate website, replacing the legacy PHP system with a modern, cloud-native architecture in a single, large-scale deployment event (Big Bang approach). The goal is to establish a robust and scalable platform with enhanced functionality, improved performance, and a superior user experience.
