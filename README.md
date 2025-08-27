@@ -12,7 +12,7 @@ The existing system is a monolithic application with a mixed technology stack of
 * **Core Functionality**: The system manages guarantee insurance applications and related administrative tasks.
 * **Architecture**: The core system is tightly coupled, making feature development and maintenance difficult.
 
-### **2. Target System Architecture (Renewal)**
+### **2. Target System Architecture **
 
 The new system will be a complete overhaul, built on a microservices architecture and deployed to the Google Cloud Platform.
 
